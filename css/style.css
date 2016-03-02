@@ -1,7 +1,5 @@
 body {
-  background: url(../images/bg-sky.png);
-  background-repeat: repeat !important;
-  background-attachment: fixed;
+
 }
 
 ul.rel-results {
@@ -41,14 +39,6 @@ ul.rel-results {
 .related-results {
   -moz-animation-delay: 1.5s;
   -webkit-animation-delay: 1.5s;
-}
-
-.movie-poster {
-  float:left;
-  width: 150px;
-  margin-right: 10px;
-  -moz-animation-delay: 1s;
-  -webkit-animation-delay: 1s;
 }
 
 .span-outer {
